@@ -27,5 +27,5 @@ class Clock(CTk,CTkLabel):
         self.label.after(1000,self.update)
     
 if __name__ == '__main__':   
-    relogio = Clock("Descktop")
+    relogio = Clock("Desktop")
     relogio.clock()
