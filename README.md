@@ -4,12 +4,12 @@ Projeto simples em Python em paradigma de programação Programação Orientada 
 Usa as bibliotecas [Customtkinter](https://github.com/TomSchimansky/CustomTkinter) e Time(Nativa).<br>
 
 ### 🟢 Pega o tema do sistema operacional.
-![Captura de tela 2023-08-27 194233](https://github.com/MatheusCarniato/Relogio-Desktop./assets/141453630/11300f4d-e21a-4815-bc86-8c174a84833c)
+![Captura de tela 2023-08-27 194233](https://github.com/MatheusCarniato/Relogio-Desktop/assets/141453630/5a4d1581-d3c8-4754-9bf2-7a78c377aae2)
 #
 ### 🟢 Tema Claro
-![Captura de tela 2023-08-27 194153](https://github.com/MatheusCarniato/Relogio-Desktop./assets/141453630/28027a0d-8926-4cc5-9ec8-39f586555de7)
+![Captura de tela 2023-08-27 194153](https://github.com/MatheusCarniato/Relogio-Desktop/assets/141453630/14d05ea0-a6a3-4e75-ab69-921b853e66a3)
 #
 ### 🟢 Responsivo
 Melhorias futuras seria apresentar os dias da semana, ter um selecionador de temas e uma cronometro como opção. 
 
-![Captura de tela 2023-08-27 194255](https://github.com/MatheusCarniato/Relogio-Desktop./assets/141453630/83636576-c0e4-468b-b5f7-c4cf3bfda670)
+![Captura de tela 2023-08-27 194255](https://github.com/MatheusCarniato/Relogio-Desktop/assets/141453630/c5653a31-1fc4-458a-855c-ea2e8b28914f)
