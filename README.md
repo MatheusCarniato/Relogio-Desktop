@@ -1,6 +1,7 @@
 # 🕰️ Relógio-Desktop.
-Criado em 40min<br>
+Atualização<br>
 Projeto simples em Python em paradigma de programação Programação Orientada a Objetos (POO).<br>
+Agora conta com data e dia da semana.E tambem formata sua estrutura com a versão pt-br de hora,data e dia <br>
 Usa as bibliotecas [Customtkinter](https://github.com/TomSchimansky/CustomTkinter) e Time(Nativa).<br>
 
 ### 🟢 Pega o tema do sistema operacional.
