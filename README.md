@@ -1,9 +1,16 @@
 # 🕰️ Relógio-Desktop.
-Atualização<br>
+# Versão 2
 Projeto simples em Python em paradigma de programação Programação Orientada a Objetos (POO).<br>
-Agora conta com data e dia da semana.E tambem formata sua estrutura com a versão pt-br de hora,data e dia <br>
+Agora conta com data e dia da semana. E também formata sua estrutura com a versão pt-br de hora, data e dia <br>
 Usa as bibliotecas [Customtkinter](https://github.com/TomSchimansky/CustomTkinter) e Time(Nativa).<br>
+### 🆕 Atualizações da nova versão.
+#### 🆕 Data e Dia da semana.
+![app](https://github.com/MatheusCarniato/Relogio-Desktop/assets/141453630/566a9a21-ba54-4f17-ae01-1245818b4df1)
 
+#### 🆕 Formato de hora, data e dia PT-BR, com a introdução do código.
+![codigo](https://github.com/MatheusCarniato/Relogio-Desktop/assets/141453630/4e378f9e-d059-4496-8cb6-b4b68872b95e)
+#
+# Versão 1
 ### 🟢 Pega o tema do sistema operacional.
 ![Captura de tela 2023-08-27 194233](https://github.com/MatheusCarniato/Relogio-Desktop/assets/141453630/5a4d1581-d3c8-4754-9bf2-7a78c377aae2)
 #
